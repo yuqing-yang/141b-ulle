@@ -17,3 +17,8 @@ Logistics:
 * [Frequently Asked Questions](faq.md)
 * [Rubric](rubric.pdf)
 * [Graphics Checklist](https://github.com/nick-ulle/teaching-notes/blob/master/sta141a/graphics_checklist.pdf)
+
+
+---
+[Static Visualizations](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.24/notes.ipynb)
+[api](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.29/notes.ipynb)
