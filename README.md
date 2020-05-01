@@ -20,5 +20,5 @@ Logistics:
 
 
 ---
-[Static Visualizations](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.24/notes.ipynb)
-[api](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.29/notes.ipynb)
+* [Static Visualizations](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.24/notes.ipynb)
+* [api](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.29/notes.ipynb)
