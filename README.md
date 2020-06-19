@@ -24,3 +24,5 @@ Logistics:
 * [api_1](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.29/notes.ipynb)
 * [api_2](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/01.31/notes.ipynb)
 * [web scraping](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/02.05/notes.ipynb)
+* [sql](https://github.com/yuqing-yang/141b-ulle/tree/master/lecture/02.21)
+* [Web Visualizations](https://github.com/yuqing-yang/141b-ulle/blob/master/lecture/03.05/notes.ipynb)
